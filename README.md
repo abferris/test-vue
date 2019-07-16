@@ -14,9 +14,11 @@ The video for how to do this tutorial can be found [here](https://www.youtube.co
   * Used for creating unique IDs
 * Axios
   * Used for requests
+  * [Cheat sheet for how to use axios](https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index)
 * Json Placeholder
   * request for initial data
   * https://jsonplaceholder.typicode.com/todos
+  * exensions can be madeto limit the amount of todos called for.
 ## Project setup
   * clone the repository
   * cd into the repository
